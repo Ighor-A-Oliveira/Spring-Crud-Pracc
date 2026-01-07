@@ -1,4 +1,4 @@
-# Simple Crud
+# Crud Simples
 
 Crud Simples feito para praticar os fundamentos de Spring Boot
 
@@ -25,7 +25,7 @@ Crud Simples feito para praticar os fundamentos de Spring Boot
 
 
 ## Como rodar
-- git clone git@github.com:Ighor-A-Oliveira/Spring-Crud-Pracc.git
+- git clone `git@github.com:Ighor-A-Oliveira/Spring-Crud-Pracc.git`
 - cd Spring-Crud-Pracc
 - Va em application.properties e veja se tem tem a configuração spring.datasource.url=jdbc:h2:mem:usuario
 - mvn clean install
