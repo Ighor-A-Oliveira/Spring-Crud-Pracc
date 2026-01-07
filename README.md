@@ -26,10 +26,10 @@ Crud Simples feito para praticar os fundamentos de Spring Boot
 
 ## Como rodar
 - git clone `git@github.com:Ighor-A-Oliveira/Spring-Crud-Pracc.git`
-- cd Spring-Crud-Pracc
-- Va em application.properties e veja se tem tem a configuração spring.datasource.url=jdbc:h2:mem:usuario
-- mvn clean install
-- mvn spring-boot:run
+- `cd Spring-Crud-Pracc`
+- Va em application.properties e veja se tem tem a configuração `spring.datasource.url=jdbc:h2:mem:usuario`
+- `mvn clean install`
+- `mvn spring-boot:run`
 > **Aplicação disponível em: http://localhost:8080*
 
 ## Application.properties
