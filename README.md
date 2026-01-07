@@ -13,6 +13,7 @@ Crud Simples feito para praticar os fundamentos de Spring Boot
 - Deletar Usuario por Id ou por Email
 - Buscar Usuario por Id ou por Email
 - Buscar Todos os Usuarios
+- Atualiza dados do registro de usuario especifico buscando pelo Id ou Email
 
 
 ## Pré-requisitos
