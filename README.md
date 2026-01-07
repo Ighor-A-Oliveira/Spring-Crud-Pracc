@@ -20,14 +20,8 @@ Crud Simples feito para praticar os fundamentos de Spring Boot
 |--------------|---------------|-------------------------|
 | Java JDK     | 25            | `java -version`        |
 | Maven        | 3.9+         | `mvn -v`               |
-| H2   | 2+           | `h2 --version`       |
+| H2   | 2.0+           | `h2 --version`       |
 
-## Configuração do banco (execute uma única vez)
-```sql
-CREATE DATABASE security_test;
-CREATE USER spring_user WITH PASSWORD 'strongpassword';
-GRANT ALL PRIVILEGES ON DATABASE security_test TO spring_user;
-```
 
 ## Como rodar
 - git clone git@github.com:Ighor-A-Oliveira/Spring-Crud-Pracc.git
